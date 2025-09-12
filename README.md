@@ -20,7 +20,6 @@ README.md
 - Matplotlib (optional for visualization)
 
 ## Installation
-```bash
 git clone https://github.com/<your-username>/Time-Series-Forecasting.git
 cd Time-Series-Forecasting
 pip install -r requirements.txt
